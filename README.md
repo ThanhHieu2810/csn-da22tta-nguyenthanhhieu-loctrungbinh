@@ -69,7 +69,7 @@ Kết quả của thuật toán được đánh giá bằng các chỉ số sau:
 ## 🔔 Báo cáo tiến độ
 📍 Báo cáo tiến độ được cập nhật **hàng tuần** tại thư mục `progress-report/`
 
-🔗 [Xem báo cáo tuần gần nhất](progress-report/tuan1.md)
+🔗 [Xem báo cáo tuần gần nhất](progress-report/)
 
 ---
 
