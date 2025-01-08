@@ -23,7 +23,7 @@ Mục tiêu chính:
 
 ### **1️⃣ Mở Notebook trên Google Colab**
 Nhấp vào link dưới đây để mở notebook trên Google Colab:  
-👉 [MỞ NOTEBOOK TRÊN GOOGLE COLAB](https://colab.research.google.com/github/nguyenthanhhieu/csn-da22tta-nguyenthanhhieu-loctrungbinh/blob/main/src/CSN_LOCTRUNGBINH.ipynb)
+👉 [MỞ NOTEBOOK TRÊN GOOGLE COLAB](https://colab.research.google.com/github/nguyenthanhhieu/csn-da22tta-nguyenthanhhieu-loctrungbinh/raw/main/src/CSN_LOCTRUNGBINH.ipynb)
 
 ### **2️⃣ Kết nối với GPU (nếu cần)**
 1. Vào **Runtime** → **Change runtime type**.
