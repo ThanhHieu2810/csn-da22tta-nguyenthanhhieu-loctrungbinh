@@ -19,23 +19,21 @@ Mục tiêu chính:
 
 ---
 
-## 🚀 Cách chạy chương trình
-### **1️⃣ Cài đặt môi trường**
-Yêu cầu Python **>=3.8**.  
-Cài đặt thư viện bằng lệnh:
-```sh
-pip install opencv-python numpy matplotlib
-```
+## 🚀 Cách chạy chương trình trên Google Colab
 
-### **2️⃣ Clone repository về máy**
-```sh
-git clone https://github.com/nguyenthanhhieu/csn-da22tta-nguyenthanhhieu-loctrungbinh.git
-cd csn-da22tta-nguyenthanhhieu-loctrungbinh
-```
+### **1️⃣ Mở Notebook trên Google Colab**
+Nhấp vào link dưới đây để mở notebook trên Google Colab:  
+👉 [MỞ NOTEBOOK TRÊN GOOGLE COLAB](https://colab.research.google.com/github/nguyenthanhhieu/csn-da22tta-nguyenthanhhieu-loctrungbinh/blob/main/src/CSN_LOCTRUNGBINH.ipynb)
 
-### **3️⃣ Chạy chương trình**
-```sh
-python src/main.py
+### **2️⃣ Kết nối với GPU (nếu cần)**
+1. Vào **Runtime** → **Change runtime type**.
+2. Chọn **GPU** để tăng tốc xử lý (không bắt buộc).
+
+### **3️⃣ Cài đặt thư viện (nếu cần)**
+Nếu chưa cài đặt thư viện, chạy lệnh sau trong notebook:
+```python
+!pip install opencv-python numpy matplotlib
+
 ```
 
 ---
