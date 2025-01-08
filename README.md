@@ -1,23 +1,21 @@
-# 📋 csn-da22tta-nguyenthanhhieu-loctrungbinh
+# csn-da22tta-nguyenthanhhieu-loctrungbinh
 
-## 🖼️ Cải thiện chất lượng hình ảnh dựa trên kỹ thuật lọc trung bình
+## Cải thiện chất lượng hình ảnh dựa trên kỹ thuật lọc trung bình
 
 ---
 
 ## 🔹 Giới thiệu
 Dự án này tập trung vào việc cải thiện chất lượng ảnh số bị nhiễu bằng kỹ thuật **lọc trung bình (Mean Filtering)**.  
 Mục tiêu chính:
-- 🎨 **Loại bỏ nhiễu** Gaussian, Poisson, mã hóa và muối tiêu.
-- 🔎 **So sánh hiệu quả của bộ lọc trung bình** với các mặt nạ lọc và các loại nhiễu khác nhau.
-- 📊 **Đánh giá kết quả** bằng các chỉ số **PSNR** (Peak Signal-to-Noise Ratio) và **SSIM** (Structural Similarity Index).
+-  **Loại bỏ nhiễu** Gaussian, Poisson, mã hóa và muối tiêu.
+-  **So sánh hiệu quả của bộ lọc trung bình** với các mặt nạ lọc và các loại nhiễu khác nhau.
+-  **Đánh giá kết quả** bằng các chỉ số **PSNR** (Peak Signal-to-Noise Ratio) và **SSIM** (Structural Similarity Index).
 
 ---
 
 ## 🔹 Công nghệ sử dụng
-- 🐖 **Python** - Ngôn ngữ lập trình chính.
-- 📸 **OpenCV** - Thư viện xử lý ảnh.
-- 💯 **NumPy** - Xử lý ma trận ảnh.
-- 📊 **Google Colab** - Chạy thử nghiệm online.
+-  **Python** - Ngôn ngữ lập trình chính.
+-  **Google Colab** - Chạy thử nghiệm online.
 
 ---
 
@@ -59,21 +57,21 @@ python src/main.py
 
 ---
 
-## 📊 Kết quả và đánh giá
+## Kết quả và đánh giá
 Kết quả của thuật toán được đánh giá bằng các chỉ số sau:
 - **PSNR (Peak Signal-to-Noise Ratio)**: Đo mức độ cải thiện chất lượng ảnh.
 - **SSIM (Structural Similarity Index)**: Đánh giá độ tương đồng giữa ảnh gốc và ảnh đã xử lý.
 
 ---
 
-## 🔔 Báo cáo tiến độ
-📍 Báo cáo tiến độ được cập nhật **hàng tuần** tại thư mục `progress-report/`
+##  Báo cáo tiến độ
+ Báo cáo tiến độ được cập nhật **hàng tuần** tại thư mục `progress-report/`
 
 🔗 [Xem báo cáo tuần gần nhất](progress-report/)
 
 ---
 
-## 📞 Liên hệ
-👤 **Nguyễn Thanh Hiếu**  
-📞 Email: thhhieu2810@gmail.com  
-📚 Trường Đại học Trà Vinh  
+##  Liên hệ
+ **Nguyễn Thanh Hiếu**  
+ Email: thhhieu2810@gmail.com  
+ Trường Đại học Trà Vinh  
