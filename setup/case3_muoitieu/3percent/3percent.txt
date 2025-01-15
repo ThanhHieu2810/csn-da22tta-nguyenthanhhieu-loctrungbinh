@@ -1,0 +1,8 @@
+Chỉ số PSNR giữa ảnh gốc và ảnh sau xử lý: 24.291 dB
+Chỉ số SSIM giữa ảnh gốc và ảnh qua hàm lọc trung bình: 0.927
+
+Chỉ số PSNR giữa ảnh gốc và ảnh sau xử lý: 24.523 dB
+Chỉ số SSIM giữa ảnh gốc và ảnh qua hàm lọc trung bình: 0.929
+
+Chỉ số PSNR giữa ảnh gốc và ảnh sau xử lý: 24.120 dB
+Chỉ số SSIM giữa ảnh gốc và ảnh qua hàm lọc trung bình: 0.922
